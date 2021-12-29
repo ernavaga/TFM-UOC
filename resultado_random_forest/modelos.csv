@@ -1,0 +1,51 @@
+sku,modelo,valor
+1,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9972128732479364
+2,"RandomForestRegressor(max_depth=25, max_features=7)",0.9967371863584963
+3,"RandomForestRegressor(max_depth=25, max_features=5)",0.9963411107998796
+4,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=50)",0.9970968225303721
+5,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=300)",0.9978261546540228
+6,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=50)",0.9957499153899485
+7,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9990649124587191
+8,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=900)",0.9977279027084277
+9,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=300)",0.9971923070625126
+10,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9980398119986958
+11,"RandomForestRegressor(max_depth=25, max_features=7)",0.99799401427536
+12,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9980598064014029
+13,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9982423072854563
+14,"RandomForestRegressor(max_depth=25, max_features=6)",0.9979983131496019
+15,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=50)",0.9954659572194035
+16,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=300)",0.9968271278762858
+17,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=900)",0.9980098885544116
+18,"RandomForestRegressor(max_depth=25, max_features=5, n_estimators=900)",0.9972108035207458
+19,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.998640722306556
+20,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=300)",0.997867374337559
+21,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9980885920278327
+22,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=50)",0.9970777209218361
+23,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9977544146802183
+24,"RandomForestRegressor(max_depth=25, max_features=6)",0.997441654222474
+25,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=900)",0.9977611649224091
+26,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=300)",0.9962939366800938
+27,"RandomForestRegressor(max_depth=25, max_features=5, n_estimators=600)",0.997977375082505
+28,"RandomForestRegressor(max_depth=25, max_features=5, n_estimators=50)",0.9968859333720622
+29,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=300)",0.9984408550389439
+30,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=900)",0.9971244413861529
+31,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=900)",0.9980510801960558
+32,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9978686180650456
+33,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9976878895348715
+34,"RandomForestRegressor(max_depth=25, max_features=7)",0.9980169568529874
+35,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=50)",0.9962074713324753
+36,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9980270866063153
+37,"RandomForestRegressor(max_depth=25, max_features=6)",0.9978987337022261
+38,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=600)",0.9986502069289113
+39,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.9971962278845138
+40,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=900)",0.9988473457378227
+41,"RandomForestRegressor(max_depth=25, max_features=7, n_estimators=600)",0.997374530024071
+42,"RandomForestRegressor(max_depth=25, max_features=7)",0.9978044854345314
+43,"RandomForestRegressor(max_depth=25, max_features=5, n_estimators=600)",0.9955620423108583
+44,"RandomForestRegressor(max_depth=25, max_features=7)",0.9976415103272526
+45,"RandomForestRegressor(max_depth=25, max_features=7)",0.9984442942029813
+46,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=600)",0.9977627154928432
+47,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=900)",0.997264542021216
+48,"RandomForestRegressor(max_depth=25, max_features=6, n_estimators=300)",0.9986021120661134
+49,"RandomForestRegressor(max_depth=25, max_features=7)",0.9958998052942114
+50,"RandomForestRegressor(max_depth=25, max_features=6)",0.9979340601408696
