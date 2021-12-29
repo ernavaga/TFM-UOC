@@ -1,4 +1,5 @@
 # TFM-UOC
+Aplicación de _Machine Learning_ para la Gestión de Inventarios
 Trabajo Final de Máster de Ciencia de Datos @UOC
 
 Este repositorio contiene los códigos utilizados para la elaboración del trabajo final de Master de Ciencia de Datos en la UOC.
